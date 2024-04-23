@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "name": "Lila Mertz",
+      "id": 9
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Practical Fresh Ball",
+      "id": 1
+    },
+    {
+      "userId": 9,
+      "title": "Awesome Steel Bike",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://picsum.photos/seed/Vhzjek/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://picsum.photos/seed/1MZY8xC/640/480",
+      "id": 2
+    }
+  ]
+}
